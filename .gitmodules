@@ -1,0 +1,6 @@
+[submodule "lib/kicad-sharedlib"]
+	path = lib/kicad-sharedlib
+	url = https://github.com/cmrcrabs/kicad-sharedlib
+[submodule "kicad-sharedlib"]
+	path = kicad-sharedlib
+	url = https://github.com/cmrcrabs/kicad-sharedlib

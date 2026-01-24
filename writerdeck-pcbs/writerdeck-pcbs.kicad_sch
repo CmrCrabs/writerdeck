@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "61242ec3-a4bb-4627-ba23-da2822f5a571")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 21.59 27.94)
+		(size 87.63 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "07349ee1-c07c-4591-9835-2fa7eecc3689")
+		(property "Sheetname" "Lid"
+			(at 21.59 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lid.kicad_sch"
+			(at 21.59 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 82.55)
+		(size 87.63 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bce3ac00-aa35-4f10-a603-8a5cc904f72f")
+		(property "Sheetname" "Base"
+			(at 21.59 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "base.kicad_sch"
+			(at 21.59 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
