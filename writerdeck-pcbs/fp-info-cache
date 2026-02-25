@@ -1,4 +1,4 @@
-26651592476604542
+26656911897428577
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106260,6 +106260,13 @@ ZF_common
 28
 28
 ZF_common
+5023520300
+
+5023520300 
+0
+5
+5
+ZF_common
 BQ25792RQMR
 
 
@@ -106267,9 +106274,23 @@ BQ25792RQMR
 29
 29
 ZF_common
+CSD17575Q3
+
+
+0
+9
+9
+ZF_common
 Raspberry-Pi-5-Compute-Module
 Raspberry Pi 5 Compute Module
 Raspberry Pi 5 Compute Module
 0
 200
 200
+ZF_common
+XFL4020-102MEC
+
+
+0
+2
+2

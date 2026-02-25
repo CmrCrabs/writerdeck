@@ -89,46 +89,4 @@
 			)
 		)
 	)
-	(sheet
-		(at 90.17 17.78)
-		(size 34.29 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "a96a94c0-8328-4418-90b6-61db662684e5")
-		(property "Sheetname" "Media Controls"
-			(at 90.17 17.0684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "media-controls.kicad_sch"
-			(at 90.17 50.1146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "writerdeck-pcbs"
-				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571/07349ee1-c07c-4591-9835-2fa7eecc3689"
-					(page "9")
-				)
-			)
-		)
-	)
 )

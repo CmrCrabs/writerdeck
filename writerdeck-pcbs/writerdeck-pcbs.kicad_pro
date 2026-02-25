@@ -601,6 +601,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -649,10 +657,6 @@
     [
       "189f782d-fdd9-4db6-ad17-b28dfe3b6f8a",
       "OLED"
-    ],
-    [
-      "a96a94c0-8328-4418-90b6-61db662684e5",
-      "Media Controls"
     ],
     [
       "b4d7353d-96ec-4669-b407-f68b66f741e0",
