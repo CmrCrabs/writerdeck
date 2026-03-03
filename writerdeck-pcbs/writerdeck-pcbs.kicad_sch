@@ -5,9 +5,239 @@
 	(uuid "61242ec3-a4bb-4627-ba23-da2822f5a571")
 	(paper "A4")
 	(lib_symbols)
+	(bus
+		(pts
+			(xy 82.55 134.62) (xy 92.71 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "239b6867-5db5-4a3f-aa40-bff973085cc9")
+	)
+	(wire
+		(pts
+			(xy 48.26 143.51) (xy 85.09 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d16d755-a607-4b75-84a1-6f4c5bbd0140")
+	)
+	(wire
+		(pts
+			(xy 74.93 124.46) (xy 92.71 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3244fb81-280d-409e-ad07-15f1e3ddc6a6")
+	)
+	(bus
+		(pts
+			(xy 50.8 129.54) (xy 50.8 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34f6ee49-0e9a-4ad8-b9f1-caf24a7c65db")
+	)
+	(wire
+		(pts
+			(xy 40.64 138.43) (xy 45.72 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5205d77c-25eb-42db-b801-07940ec86ade")
+	)
+	(bus
+		(pts
+			(xy 82.55 134.62) (xy 82.55 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57688f88-7926-466b-8ec1-10afd6f2eb08")
+	)
+	(wire
+		(pts
+			(xy 48.26 135.89) (xy 48.26 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cce0729-3d83-4231-9742-356e8b18e5f7")
+	)
+	(wire
+		(pts
+			(xy 111.76 127) (xy 119.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71ef83b1-87f1-4f0d-ad4a-0df23e73fa61")
+	)
+	(wire
+		(pts
+			(xy 85.09 138.43) (xy 92.71 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74027418-9f4e-456f-8155-24fb76a1383c")
+	)
+	(wire
+		(pts
+			(xy 111.76 124.46) (xy 119.38 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a8bb17c-cb89-449d-ad0e-3ae0d903ba2c")
+	)
+	(wire
+		(pts
+			(xy 45.72 146.05) (xy 87.63 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e733a45-6810-431b-9e44-a12ce73ed00e")
+	)
+	(bus
+		(pts
+			(xy 40.64 127) (xy 55.88 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84a6e777-c47d-4538-a2a2-d3d6c91eec47")
+	)
+	(wire
+		(pts
+			(xy 74.93 127) (xy 92.71 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d98e61a-128a-46df-a3f4-7a5a2380949a")
+	)
+	(wire
+		(pts
+			(xy 111.76 129.54) (xy 119.38 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93f35f7d-04c7-4a06-9da6-d47c0949a5f1")
+	)
+	(wire
+		(pts
+			(xy 40.64 124.46) (xy 55.88 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b28f4de9-b48c-485b-ad8d-11afd917e171")
+	)
+	(wire
+		(pts
+			(xy 45.72 138.43) (xy 45.72 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3afbcaf-85d3-4103-a050-bb5281703f40")
+	)
+	(wire
+		(pts
+			(xy 87.63 140.97) (xy 87.63 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c81c2a01-1000-423d-afaa-8fc9292c8b04")
+	)
+	(wire
+		(pts
+			(xy 40.64 135.89) (xy 48.26 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd924f3f-1961-4752-bf30-829b9cd0a3e7")
+	)
+	(bus
+		(pts
+			(xy 40.64 129.54) (xy 50.8 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf09c6d9-8072-426a-8f9e-92621f266f60")
+	)
+	(wire
+		(pts
+			(xy 85.09 143.51) (xy 85.09 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6294b92-2035-4d50-960e-deec5e8f149e")
+	)
+	(bus
+		(pts
+			(xy 50.8 140.97) (xy 82.55 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7401810-6734-44b2-914c-262766d31ace")
+	)
+	(wire
+		(pts
+			(xy 74.93 129.54) (xy 92.71 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faa6ec5c-d3a2-4fc2-a03e-0005b9f2304a")
+	)
+	(wire
+		(pts
+			(xy 92.71 140.97) (xy 87.63 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd9fe451-f88b-4ae2-aa75-cd848c3c7701")
+	)
 	(sheet
-		(at 21.59 27.94)
-		(size 87.63 36.83)
+		(at 138.43 142.24)
+		(size 15.24 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20,9 +250,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "07349ee1-c07c-4591-9835-2fa7eecc3689")
-		(property "Sheetname" "Lid"
-			(at 21.59 27.2284 0)
+		(uuid "055c4128-8f9c-4f54-8a93-e2ab3a7a9753")
+		(property "Sheetname" "Audio"
+			(at 138.43 141.5284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30,26 +260,27 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "lid.kicad_sch"
-			(at 21.59 65.3546 0)
+		(property "Sheetfile" "audio.kicad_sch"
+			(at 138.43 158.0646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
 			(project "writerdeck-pcbs"
 				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 21.59 82.55)
-		(size 87.63 36.83)
+		(at 90.17 58.42)
+		(size 19.05 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -62,9 +293,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "bce3ac00-aa35-4f10-a603-8a5cc904f72f")
-		(property "Sheetname" "Base"
-			(at 21.59 81.8384 0)
+		(uuid "1bc29f29-7afc-424d-bd08-873eea2dac77")
+		(property "Sheetname" "E-Ink"
+			(at 90.17 57.7084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,19 +303,559 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "base.kicad_sch"
-			(at 21.59 119.9646 0)
+		(property "Sheetfile" "e-ink.kicad_sch"
+			(at 90.17 78.0546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
 			(project "writerdeck-pcbs"
 				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 58.42)
+		(size 19.05 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5736726c-0d6e-4541-bebf-f6e763e89e30")
+		(property "Sheetname" "OLED"
+			(at 66.04 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "oled.kicad_sch"
+			(at 66.04 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 121.92)
+		(size 15.24 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5876eb55-fad9-412d-a058-5ea772b405dc")
+		(property "Sheetname" "USB-C"
+			(at 25.4 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB-C.kicad_sch"
+			(at 25.4 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "VBUS" output
+			(at 40.64 124.46 0)
+			(uuid "9a81b083-63d9-4b75-a292-87b287d08f60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{USB2}" bidirectional
+			(at 40.64 127 0)
+			(uuid "a1b68735-4fd7-47b2-87db-1463db9bc2ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CC2" output
+			(at 40.64 138.43 0)
+			(uuid "1cf4d5ed-744e-4fdf-810e-8a39fb3d7c0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CC1" output
+			(at 40.64 135.89 0)
+			(uuid "4fbe31bd-23d3-44df-9de5-6443c19da032")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{USB3}" bidirectional
+			(at 40.64 129.54 0)
+			(uuid "b3dc53b5-100b-487e-b7ea-53504e70803c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 55.88 121.92)
+		(size 19.05 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "941d0643-0a3b-4b04-bc4b-d64fb2409d8b")
+		(property "Sheetname" "Power Management"
+			(at 55.88 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power-management.kicad_sch"
+			(at 55.88 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "+5v" output
+			(at 74.93 124.46 0)
+			(uuid "9e01ff22-0941-43fa-af39-d8502862a905")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VBUS" input
+			(at 55.88 124.46 180)
+			(uuid "41dad086-8e00-40e1-9f9f-6313e66de901")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PMIC_INT" output
+			(at 74.93 127 0)
+			(uuid "06a7fe8e-dd7d-4476-ae7b-38c75fae6c63")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{I2C}" bidirectional
+			(at 55.88 129.54 180)
+			(uuid "c3e1e2c7-7331-4bc7-8d4a-39a1b6cc7d74")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB2}" bidirectional
+			(at 55.88 127 180)
+			(uuid "9ade06b3-9270-4fd8-a807-5b44c3207f08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWR_BTN" input
+			(at 74.93 129.54 0)
+			(uuid "a0b4a33d-1fc2-4735-aab4-c52a3a063720")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 121.92)
+		(size 19.05 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6a1a64c-90f7-48d6-b410-3a47971b2151")
+		(property "Sheetname" "CM5 GPIO"
+			(at 92.71 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm5_gpio.kicad_sch"
+			(at 92.71 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "PMIC_INT" input
+			(at 92.71 127 180)
+			(uuid "10c7e4f6-3197-43e1-a709-f2626d2d0a14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+3v3" output
+			(at 111.76 124.46 0)
+			(uuid "46ad8885-5b64-4555-881c-93b4e282a5db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+5v" input
+			(at 92.71 124.46 180)
+			(uuid "55d42d8c-c4d6-4eae-87df-4be314591adb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWR_BTN" output
+			(at 92.71 129.54 180)
+			(uuid "ad0cf79c-6493-4dae-a6bc-e6cd1c985f6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CC2" input
+			(at 92.71 140.97 180)
+			(uuid "8241f896-824f-4ee2-a149-76566e6fad70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CC1" input
+			(at 92.71 138.43 180)
+			(uuid "216f4d9a-706a-4627-9fb9-7f7261516745")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWD" output
+			(at 111.76 127 0)
+			(uuid "2f7d6b4a-3a09-4811-948e-739f0a555ad2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SWCLK" output
+			(at 111.76 129.54 0)
+			(uuid "aafb620a-289f-497a-a5dc-d9fd9a4524b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{I2C}" output
+			(at 92.71 132.08 180)
+			(uuid "f4f6cf10-f05f-4f45-adb1-5ae8f8552b9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 101.6)
+		(size 60.96 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cfede3bf-c957-4dc1-890c-2e9bdf4e2ec0")
+		(property "Sheetname" "CM5 Highspeed"
+			(at 67.056 100.838 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm5_highspeed.kicad_sch"
+			(at 67.31 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 142.24)
+		(size 15.24 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f46ce3fb-1ea5-40ef-95d7-80f66867cb84")
+		(property "Sheetname" "Storage"
+			(at 120.65 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "storage.kicad_sch"
+			(at 120.65 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 121.92)
+		(size 21.59 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fbc69154-f33b-42cf-a01d-46ff50d06f0b")
+		(property "Sheetname" "Keyboard"
+			(at 119.38 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HID.kicad_sch"
+			(at 119.38 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "SWCLK" input
+			(at 119.38 129.54 180)
+			(uuid "086f140b-2825-42a6-81c6-7fb955e9c9de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWD" input
+			(at 119.38 127 180)
+			(uuid "90f6065b-46eb-4166-af30-5924258505be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+3v3" input
+			(at 119.38 124.46 180)
+			(uuid "3a8ca9e7-330b-4468-b872-c7bad34638a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB2_KB}" output
+			(at 140.97 124.46 0)
+			(uuid "5980e844-fe2a-4fec-8a8e-89c321d2d591")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "writerdeck-pcbs"
+				(path "/61242ec3-a4bb-4627-ba23-da2822f5a571"
+					(page "9")
 				)
 			)
 		)

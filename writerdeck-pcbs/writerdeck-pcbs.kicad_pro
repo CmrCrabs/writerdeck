@@ -627,48 +627,40 @@
       "Root"
     ],
     [
-      "bce3ac00-aa35-4f10-a603-8a5cc904f72f",
-      "Base"
-    ],
-    [
-      "07349ee1-c07c-4591-9835-2fa7eecc3689",
-      "Lid"
-    ],
-    [
-      "81bbdab5-4dce-489f-9870-ba7c2cbd8fd6",
-      "Power Management"
-    ],
-    [
-      "24a7c17f-3f98-4298-baf1-e23f9dbc15c4",
-      "Keyboard"
-    ],
-    [
-      "8b4b50f9-e3bf-480d-967b-50a50e24ac2b",
-      "Storage"
-    ],
-    [
-      "e3d4ea4b-cf2d-4fa4-877c-92e34e5a7566",
-      "Audio"
-    ],
-    [
-      "1ce4b442-2f7a-4411-83c3-af6243f948db",
+      "1bc29f29-7afc-424d-bd08-873eea2dac77",
       "E-Ink"
     ],
     [
-      "189f782d-fdd9-4db6-ad17-b28dfe3b6f8a",
-      "OLED"
+      "055c4128-8f9c-4f54-8a93-e2ab3a7a9753",
+      "Audio"
     ],
     [
-      "b4d7353d-96ec-4669-b407-f68b66f741e0",
-      "Hinge Close Sensor"
+      "c6a1a64c-90f7-48d6-b410-3a47971b2151",
+      "CM5 GPIO"
     ],
     [
-      "59a7a95d-8086-4b83-a4eb-11bfc5b8db86",
+      "cfede3bf-c957-4dc1-890c-2e9bdf4e2ec0",
       "CM5 Highspeed"
     ],
     [
-      "e3de83db-1cd9-4a53-bcba-65a218489f7b",
-      "CM5 GPIO"
+      "5736726c-0d6e-4541-bebf-f6e763e89e30",
+      "OLED"
+    ],
+    [
+      "fbc69154-f33b-42cf-a01d-46ff50d06f0b",
+      "Keyboard"
+    ],
+    [
+      "941d0643-0a3b-4b04-bc4b-d64fb2409d8b",
+      "Power Management"
+    ],
+    [
+      "f46ce3fb-1ea5-40ef-95d7-80f66867cb84",
+      "Storage"
+    ],
+    [
+      "5876eb55-fad9-412d-a058-5ea772b405dc",
+      "USB-C"
     ]
   ],
   "text_variables": {}

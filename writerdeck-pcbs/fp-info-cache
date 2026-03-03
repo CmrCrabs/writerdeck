@@ -1,4 +1,4 @@
-26656911897428577
+26658684279494972
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106287,6 +106287,13 @@ Raspberry Pi 5 Compute Module
 0
 200
 200
+ZF_common
+TPS61022
+Texas  RWU0007A VQFN, 2x2mm, 7 Pin (https://www.ti.com/lit/ds/symlink/tps61022.pdf)
+Texas VQFN NoLead
+0
+13
+7
 ZF_common
 XFL4020-102MEC
 
