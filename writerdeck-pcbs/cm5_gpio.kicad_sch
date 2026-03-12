@@ -4492,6 +4492,10 @@
 		(uuid "237386bb-96db-4b1d-88de-df219764d8fa")
 	)
 	(no_connect
+		(at 99.06 152.4)
+		(uuid "392b802c-41e0-4b42-9de9-d57759c68572")
+	)
+	(no_connect
 		(at 38.1 139.7)
 		(uuid "45f41736-6b9f-4398-81eb-2c7f767a2544")
 	)
@@ -4678,6 +4682,16 @@
 			(type default)
 		)
 		(uuid "59cbfb1e-000e-42cf-a527-1875321f5f9d")
+	)
+	(wire
+		(pts
+			(xy 30.48 124.46) (xy 38.1 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b274605-4cd0-42f8-a512-d1d6d66fc8b6")
 	)
 	(wire
 		(pts
@@ -4878,6 +4892,16 @@
 			(justify left bottom)
 		)
 		(uuid "20edbff3-129a-44b5-8120-57f1bbfc411a")
+	)
+	(label "+3.3v"
+		(at 30.48 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34658ac2-42e8-4739-be3e-02927d7dbb6b")
 	)
 	(label "+3.3v"
 		(at 120.65 53.34 0)

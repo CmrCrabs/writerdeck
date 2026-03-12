@@ -631,7 +631,11 @@
       "E-Ink"
     ],
     [
-      "055c4128-8f9c-4f54-8a93-e2ab3a7a9753",
+      "4f4de870-27e8-436e-9891-9681b335854e",
+      "Storage"
+    ],
+    [
+      "cb88af62-568c-4346-9ef9-9ce5dbf353ef",
       "Audio"
     ],
     [
@@ -653,10 +657,6 @@
     [
       "941d0643-0a3b-4b04-bc4b-d64fb2409d8b",
       "Power Management"
-    ],
-    [
-      "f46ce3fb-1ea5-40ef-95d7-80f66867cb84",
-      "Storage"
     ],
     [
       "5876eb55-fad9-412d-a058-5ea772b405dc",
